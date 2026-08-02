@@ -1,0 +1,21 @@
+# Cadence temp/cache/simulation database files
+*.log
+*.cdslck
+.cdsenv
+.cdsinit
+*.cds.log
+cds.lib
+.simvision/
+*.dsn
+*.trn
+*.mdt
+*.ahdlSimDB/
+*.dfII
+oceanEval.log
+*.errors
+*.oceanScript.log
+*/psf/
+*.raw/
+.oa/
+.OALIB/
+*.tmp
